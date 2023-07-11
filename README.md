@@ -1,6 +1,6 @@
 # Task Minder
 
-O Task Minder é uma aplicação simples de gerenciamento de tarefas, onde os usuários podem criar, atualizar, excluir e listar tarefas.
+O Task Minder é uma aplicação simples de gerenciamento de tarefas, onde os usuários podem criar, atualizar, excluir e listar tarefas. Sendo um projeto desenvolvido para a cadeira de Métodos Computacionais. 
 
 ## Funcionalidades
 - Criar uma nova tarefa, fornecendo um título.
@@ -10,11 +10,15 @@ O Task Minder é uma aplicação simples de gerenciamento de tarefas, onde os us
 
 ## Tecnologias: 
 
-- Python ![Logo do Python]
+ ![Logo do Python](https://img.icons8.com/color/48/000000/python.png) 
 
-- Flask (Framework web)
-- HTML/CSS
-- JavaScript
+![Logo do Flask](https://img.icons8.com/color/48/000000/flask.png)
+
+![Logo do HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+
+![Logo do CSS](https://img.icons8.com/color/48/000000/css3.png)
+
+ ![Logo do JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 
 ## Pré Requesitos: 
 
@@ -43,3 +47,4 @@ pip install -r requirements.txt
 python app.py
 1. Abra o navegador e acesse a seguinte URL:
 http://localhost:5000/
+
